@@ -19,7 +19,7 @@ $ ./nuclei -u https://scanme.sh -stats -c 2000 -rl 5000
 ### Install nuclei-charts
 
 ```console
-$ go install -v github.com/tarunKoyal/nuclei-charts@latest
+$ go install -v github.com/tarunKoyalwar/nuclei-charts@latest
 ```
 
 or build from source
